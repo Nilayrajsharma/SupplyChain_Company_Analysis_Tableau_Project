@@ -194,24 +194,6 @@ Using this dashboard can help organizations:
 ✔ Improve customer retention  
 ✔ Support strategic decision making  
 
----
-
-# 🖼 Dashboard Preview
-
-_Add exported dashboard screenshots below_
-
-```md
-## Dashboard Screenshots
-
-### Sales Dashboard
-![Sales Dashboard](images/dashboard1.png)
-
-### Logistics Dashboard
-![Logistics Dashboard](images/dashboard2.png)
-
-### Customer Dashboard
-![Customer Dashboard](images/dashboard3.png)
-```
 
 ---
 
